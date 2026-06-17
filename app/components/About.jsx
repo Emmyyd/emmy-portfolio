@@ -9,12 +9,14 @@ function About() {
       className="w-full px-[12%] py-20 scroll-mt-24 bg-gray-50"
     >
       {/* TITLE */}
-      <h4 className="text-center mb-12">
-        <span className="text-sm text-gray-500">Introduction</span>
-        <h2 className="text-3xl sm:text-4xl font-semibold text-gray-900 mt-2">
-          About me
-        </h2>
-      </h4>
+      {/* TITLE */}
+<div className="text-center mb-12">
+  <span className="text-sm text-gray-500">Introduction</span>
+
+  <h2 className="text-3xl sm:text-4xl font-semibold text-gray-900 mt-2">
+    About me
+  </h2>
+</div>
 
       <div className="flex flex-col md:flex-row items-center gap-12">
         {/* IMAGE */}
