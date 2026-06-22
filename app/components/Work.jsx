@@ -8,7 +8,7 @@ const projects = [
    description: "A full-stack cake shop built with the MERN stack. Features product listings, a shopping cart, and an admin panel for managing products.",
    link: "https://dcakes-ecommerce.vercel.app/",
  },
- { icon: LayoutGrid, title: "Project 2", description: "Working on it...", link: null },
+ { icon: Globe, title: "Emmy Globes", description: "A React countries explorer app with live timezone clocks, search & filter by region, dark mode, and data for 250+ countries.", link: "https://emmy-globe.vercel.app/", },
  { icon: Settings, title: "Project 3", description: "Working on it...", link: null },
  { icon: ImageIcon, title: "Project 4", description: "Working on it...", link: null },
 ]
